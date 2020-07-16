@@ -21,8 +21,14 @@ _global_script_class_icons={
 [application]
 
 config/name="HelloWorld"
-run/main_scene="res://Player_KinematicBody2D.tscn"
+run/main_scene="res://LevelTemplate.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=1040
+window/size/height=640
+window/size/resizable=false
 
 [input]
 
